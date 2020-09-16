@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="trailers_1">Trailers 1</string>
+    <string name="setting">Setting</string>
+</resources>
